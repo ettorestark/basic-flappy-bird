@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#showGame {
+	display: flex;
+}
+
+#showGame canvas {
+	border: 1px solid #ccc;
+	margin: auto;
+}
